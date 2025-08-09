@@ -1,0 +1,5 @@
+{
+  "easy": ["cat", "dog", "book", "tree", "car", "house", "milk", "bird", "fish", "star", "sun", "hat", "cup", "pen", "ball", "chair", "door", "rain", "road", "ship", "bird", "fork", "cake", "shoe", "leaf", "lamp", "mouse", "nose", "ring", "sock"],
+  "medium": ["planet", "office", "singer", "bridge", "market", "friend", "garden", "forest", "window", "camera", "bottle", "animal", "school", "travel", "letter", "circle", "planet", "puzzle", "guitar", "silver", "jungle", "button", "doctor", "castle", "engine", "helmet", "island", "mother", "father", "castle"],
+  "hard": ["elephant", "triangle", "computer", "mountain", "building", "difficult", "adventure", "hospital", "umbrella", "diamond", "passport", "calendar", "language", "telephone", "chimney", "keyboard", "longitude", "strength", "bicycle", "strategy", "elevator", "mosquito", "avalanche", "algorithm", "architecture", "foundation", "journalist", "laboratory", "microphone", "philosophy"]
+}
